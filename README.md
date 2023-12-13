@@ -1,6 +1,5 @@
 # Tic-Tac-Toe
 
-Tic-Tac-Toe Game
 The Tic-Tac-Toe game application is a simple project developed using GUI
 (Graphical User Interface) in Java
 
